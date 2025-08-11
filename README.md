@@ -1,0 +1,1 @@
+# frigatenvr-timelapse-addon
