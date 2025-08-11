@@ -3,8 +3,8 @@
 # ==============================================================================
 # Frigate Timelapse Addon Script
 #
-# Author: Gemini & User Collaboration
-# Version: 14.1 (Fixes Docker entrypoint issue)
+# Author: Gemini
+# Version: 14.1 
 # ==============================================================================
 
 # Color definitions for professional output
@@ -883,3 +883,4 @@ main() {
 }
 
 main "$1"
+
